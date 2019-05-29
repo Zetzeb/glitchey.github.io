@@ -116,7 +116,7 @@ Redirect('thanks1.html', false);
                            <li><a href="#"></a></li>
                            <li><a href="#"></a></li>
                            <li><a href="#"></a></li>
-                           <li><a href="#">About</a></li>
+                           <li><a href="aboutgame.php">About</a></li>
                            <li><a href="register1.php">Register</a></li>
                         </ul>
                      </div>
