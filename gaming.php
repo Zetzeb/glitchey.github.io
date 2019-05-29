@@ -236,7 +236,7 @@ Redirect('a.html', false);
                      <div class="total-item-show sorter">
                         
                      </div>
-                  </div>
+                  </div> 
                   <div class="movie-grid-box">
                      <div class="row">
                         <div class="col-lg-6">
